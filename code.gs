@@ -1,10 +1,15 @@
 function autoFillIPSTemplateGoogleDoc(e) {
   // Getting the data in form of a map 
-  let data = e.namedValues;
+  const data = e.namedValues;
 
   // This Function is to access the map using the key
   const accessData = (key)=>{
+    try{
+
     return data[key][0]
+    }catch(e){
+      console.log(e, "tryed to access",key )
+    }
   }
 
   // this function creates a string that makes the goals dynamic according to the options csv
