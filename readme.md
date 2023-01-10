@@ -14,7 +14,6 @@ Demo Google Form
 [Link to the demo Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdzaIkfM9GSm5U3tiFuKUROcCGGz2PlnZI0dG6LLVWoTUK03A/viewform?usp=sf_link)
 
 Google Sheet and Lookup Tables
-
 [Link to the Google Sheet and Lookup Tables](https://docs.google.com/document/d/1rOtSESHT-TW3zyu4hxtTDGvabMaF_Pio-yVwp6HVquI/edit#)
 
 Google Doc Template
