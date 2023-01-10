@@ -9,12 +9,13 @@ To solve this challenge, I first proposed a method to convert certain text value
 To demonstrate how this method could be used with the current Google App Script, I wrote some sample code showing how to read the text and numeric values from the tables and store them in the Google Sheet. I also added a demo Google Form and an investor rating section to the emailed IPS document.
 
 To complete this challenge, I uploaded my code to a github repository and shared a link to the repository with the project manager. I also added links to the demo Google Form, Google Sheet, and Google Doc template in the repository's README.
-Demo Google Form
 
-Link to the demo Google Form
+Demo Google Form
+[Link to the demo Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdzaIkfM9GSm5U3tiFuKUROcCGGz2PlnZI0dG6LLVWoTUK03A/viewform?usp=sf_link)
+
 Google Sheet and Lookup Tables
 
-Link to the Google Sheet and lookup tables
-Google Doc Template
+[Link to the Google Sheet and Lookup Tables](https://docs.google.com/document/d/1rOtSESHT-TW3zyu4hxtTDGvabMaF_Pio-yVwp6HVquI/edit#)
 
-Link to the Google Doc template
+Google Doc Template
+[Link to the Google Doc template](https://docs.google.com/document/d/1rOtSESHT-TW3zyu4hxtTDGvabMaF_Pio-yVwp6HVquI/edit#)
